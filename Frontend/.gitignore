@@ -3,7 +3,7 @@
 /tmp
 /out-tsc
 
-# dependencies
+# dependencies is sujected i librerys mongo db ur other dependences 
 /node_modules
 
 # IDEs and editors
